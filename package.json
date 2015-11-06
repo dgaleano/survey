@@ -1,0 +1,12 @@
+{
+  "name": "surveytest",
+  "version": "0.0.1",
+  "license": "GPL-3.0",
+  "description": "This is a survey api",
+  "author": "Diego",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mysql": "^2.9.0"
+  }
+}

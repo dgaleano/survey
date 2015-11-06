@@ -1,0 +1,7 @@
+{
+	"host":"",
+	"user":"",
+	"password":"",
+	"database":"survey",
+	"charset": "utf8_unicode_ci"
+}
